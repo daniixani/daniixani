@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Daniela. I get random ideas, and if they involve code, they usually end up here. I love to blend unconventional systems with logic to create something new. I'm not scared of looking weird; I invite it.
+### hey, i’m daniela 🧠⚡
 
-<!---
-daniixani/daniixani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i build unusual systems that blend **signals, control, and code**. lately:
+- 🔌 **Buck Converter in LTspice** — validated against design specs; swept load/transient & efficiency  
+- 🧠🎨 **Brainwave-Art (C++)** — turns EEG features into generative visuals  
+- 🧮💘 **Control-Systems “Dating Sim” (Python)** — toy feedback model for matching dynamics
+
+**interests:** power electronics (LLC/WPT), digital design, control, HCI  
+**currently building:** hex-coil WPT + EEG → device control  
+**contact:** [LinkedIn](#) • [Email](mailto:you@example.com) • [Resume](#)
