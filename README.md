@@ -7,4 +7,3 @@ i build unusual systems that blend **signals, control, and code**. lately:
 
 **interests:** power electronics (LLC/WPT), digital design, control, HCI  
 **currently building:** hex-coil WPT + EEG → device control  
-**contact:** [LinkedIn](#) • [Email](mailto:you@example.com) • [Resume](#)
