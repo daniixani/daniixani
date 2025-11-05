@@ -6,4 +6,4 @@ i build unusual systems that blend **signals, control, and code**. lately:
 - 🧮💘 **Control-Systems “Dating Sim” (Python)** — toy feedback model for matching dynamics
 
 **interests:** power electronics (LLC/WPT), digital design, control, HCI  
-**currently building:** hex-coil WPT + EEG → device control  
+**currently building:** examining post-collapse “bounce” effects in spacetime via secondary gravitational-wave echoes || hex-coil WPT + EEG → device control  
